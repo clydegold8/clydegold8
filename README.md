@@ -1,3 +1,7 @@
+
+
+<!--
+
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> ![GitHub followers](https://img.shields.io/github/followers/clydegold8?label=Follow%20me%21&logo=github&style=flat-square) [![Linkedin Badge](https://img.shields.io/badge/-ClydeIan-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/clyde-ian-acaso-1a3339b1)](https://www.linkedin.com/in/clyde-ian-acaso-1a3339b1) [![Gmail Badge](https://img.shields.io/badge/-ian.clyde24-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:ian.clyde24@gmail.com)](mailto:ian.clyde24@gmail.com)
 I create stunning web pages. I currently work as a Front End Developer with the latest techstacks.I have a passion for learning and sharing my knowledge with others a public as possible. Im interested also on cybersecurity and AI development. 
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
@@ -8,8 +12,6 @@ I create stunning web pages. I currently work as a Front End Developer with the 
 ## :chart_with_upwards_trend: Github Stats
 ![clydegold8's Github Stats](https://github-readme-stats.vercel.app/api?username=clydegold8&show_icons=true&theme=dark&hide=contribs&layout=compact) 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=clydegold8&layout=compact&theme=dark)
-
-<!--
 
 ![clydegold8's Github Stats](https://github-readme-stats.vercel.app/api?username=clydegold8&show_icons=true&theme=radical&hide=contribs,issues)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=clydegold8&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
