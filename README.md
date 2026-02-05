@@ -1,6 +1,4 @@
 
-
-
 <!--
 ![clydegold8's Github Stats](https://github-readme-stats.vercel.app/api?username=clydegold8&show_icons=true&theme=radical&hide=contribs,issues)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=clydegold8&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
@@ -62,6 +60,11 @@ I specialize in modern **JavaScript frameworks**, clean UI architecture, and wri
 ### State Management
 
 ![Redux](https://img.shields.io/badge/Redux-Toolkit-purple)
+![Redux Thunk](https://img.shields.io/badge/Redux-Thunk-lightgrey)
+![Redux Saga](https://img.shields.io/badge/Redux-Saga-purple)
+![React Query](https://img.shields.io/badge/React_Query-TanStack-red)
+![Zustand](https://img.shields.io/badge/Zustand-brown)
+![MobX](https://img.shields.io/badge/MobX-orange)
 ![Vuex](https://img.shields.io/badge/Vuex-green)
 ![Pinia](https://img.shields.io/badge/Pinia-yellow)
 
