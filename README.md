@@ -1,14 +1,6 @@
-# Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> ![GitHub followers](https://img.shields.io/github/followers/clydegold8?label=Follow%20me%21&logo=github&style=flat-square) [![Linkedin Badge](https://img.shields.io/badge/-ClydeIan-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/clyde-ian-acaso-1a3339b1)](https://www.linkedin.com/in/clyde-ian-acaso-1a3339b1) [![Gmail Badge](https://img.shields.io/badge/-ian.clyde24-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:ian.clyde24@gmail.com)](mailto:ian.clyde24@gmail.com)
-I create stunning web pages. I currently work as a Front End Developer with the latest techstacks.I have a passion for learning and sharing my knowledge with others a public as possible. Im interested also on cybersecurity and AI development. 
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
-## :hammer_and_wrench: Technologies and Tools
-<img src="https://img.shields.io/static/v1?style=flat-square&label=Linux&message=OS&color=blue&logo=linux"> <img src="https://img.shields.io/static/v1?style=flat-square&label=Windows&message=OS&color=blue&logo=windows"> <img src="https://img.shields.io/static/v1?style=flat-square&label=Angular&message=@latest&color=blue&logo=angular"> <img src="https://img.shields.io/static/v1?style=flat-square&label=React&message=@latest&color=blue&logo=react"> <img src="https://img.shields.io/static/v1?style=flat-square&label=Redux&message=@latest&color=blue&logo=redux"> <img src="https://img.shields.io/static/v1?style=flat-square&label=SASS&message=@latest&color=blue&logo=sass"> <img src="https://img.shields.io/static/v1?style=flat-square&label=Material-UI&message=@latest&color=blue&logo=material-ui"> <img src="https://img.shields.io/static/v1?style=flat-square&label=Node.js&message=@latest&color=blue&logo=node.js"> <img src="https://img.shields.io/static/v1?style=flat-square&label=Github&message=Project-Versioning&color=blue&logo=git"> <img src="https://img.shields.io/static/v1?style=flat-square&label=Gitlab&message=Project-Versioning&color=blue&logo=gitlab"> <img src="https://img.shields.io/static/v1?style=flat-square&label=Bootstrap&message=CSS-Framework&color=blue&logo=bootstrap"> <img src="https://img.shields.io/static/v1?style=flat-square&label=CSS3&message=CSS-Mastered&color=blue&logo=css3"> <img src="https://img.shields.io/static/v1?style=flat-square&label=HTML5&message=HTML5-Developer&color=blue&logo=html5"> <img src="https://img.shields.io/static/v1?style=flat-square&label=Javascript&message=javascript-Developer&color=blue&logo=javascript"> <img src="https://img.shields.io/static/v1?style=flat-square&label=PHP&message=PHP-Developer&color=blue&logo=php"> <img src="https://img.shields.io/static/v1?style=flat-square&label=Android&message=Developer&color=blue&logo=android"> <img src="https://img.shields.io/static/v1?style=flat-square&label=Ionic&message=Developer&color=blue&logo=ionic">  <img src="https://img.shields.io/static/v1?style=flat-square&label=Wordoress&message=Developer&color=blue&logo=wordpress"> 
 
-## :chart_with_upwards_trend: Github Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=clydegold8&layout=compact&theme=dark)
-[![clydegold8's GitHub stats](https://my-stats-theta-taupe.vercel.app/api?username=clydegold8&theme=dark&hide=contribs&layout=compact)](https://github.com/clydegold8/github-readme-stats)
 <!--
 ![clydegold8's Github Stats](https://github-readme-stats.vercel.app/api?username=clydegold8&show_icons=true&theme=radical&hide=contribs,issues)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=clydegold8&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
@@ -25,3 +17,113 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+
+
+
+#  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">  Hi, I'm Clyde Ian Acaso  ![GitHub followers](https://img.shields.io/github/followers/clydegold8?label=Follow%20me%21&logo=github&style=flat-square) [![Linkedin Badge](https://img.shields.io/badge/-ClydeIan-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/clyde-ian-acaso-1a3339b1)](https://www.linkedin.com/in/clyde-ian-acaso-1a3339b1) [![Gmail Badge](https://img.shields.io/badge/-ian.clyde24-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:ian.clyde24@gmail.com)](mailto:ian.clyde24@gmail.com)
+
+🚀 **Senior Front-End / Web Developer** with **10+ years of professional experience** building scalable, high-performance web applications.
+
+I specialize in modern **JavaScript frameworks**, clean UI architecture, and writing maintainable, well-tested code. I enjoy turning complex requirements into elegant user experiences and collaborating with distributed teams.
+
+---
+
+## 🧑‍💻 About Me 
+
+* 💼 Senior Front-End Developer with strong full-stack exposure
+* 🌍 Open to **remote work** (part-time or full-time)
+* ⚡ Strong focus on performance, accessibility, and DX
+* 🧠 Comfortable owning features end-to-end
+* 🛠️ Experience in both **product companies** and **agency environments**
+
+---
+
+## 🛠️ Tech Stack
+
+### Core Front-End
+
+![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-yellow)
+![TypeScript](https://img.shields.io/badge/TypeScript-blue)
+![React](https://img.shields.io/badge/React-18-blue)
+![Vue](https://img.shields.io/badge/Vue-3-green)
+![Nuxt](https://img.shields.io/badge/Nuxt-3-darkgreen)
+![Angular](https://img.shields.io/badge/Angular-red)
+
+### Styling & UI
+
+![HTML5](https://img.shields.io/badge/HTML5-orange)
+![CSS3](https://img.shields.io/badge/CSS3-blue)
+![SCSS](https://img.shields.io/badge/SCSS-pink)
+![Tailwind](https://img.shields.io/badge/TailwindCSS-cyan)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-purple)
+
+### State Management
+
+![Redux](https://img.shields.io/badge/Redux-Toolkit-purple)
+![Vuex](https://img.shields.io/badge/Vuex-green)
+![Pinia](https://img.shields.io/badge/Pinia-yellow)
+
+### Testing
+
+![Jest](https://img.shields.io/badge/Jest-red)
+![Cypress](https://img.shields.io/badge/Cypress-darkgreen)
+![Testing Library](https://img.shields.io/badge/Testing_Library-lightgrey)
+
+### Backend & APIs
+
+![REST](https://img.shields.io/badge/REST-APIs-lightblue)
+![Laravel](https://img.shields.io/badge/Laravel-red)
+![Node.js](https://img.shields.io/badge/Node.js-green)
+
+### Databases
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-blue)
+![MySQL](https://img.shields.io/badge/MySQL-orange)
+
+### DevOps & Tooling
+
+![Git](https://img.shields.io/badge/Git-black)
+![Docker](https://img.shields.io/badge/Docker-blue)
+![CI/CD](https://img.shields.io/badge/CI/CD-lightgrey)
+![AWS](https://img.shields.io/badge/AWS-orange)
+
+### Stats
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=clydegold8&layout=compact&theme=dark)
+[![clydegold8's GitHub stats](https://my-stats-theta-taupe.vercel.app/api?username=clydegold8&theme=dark&hide=contribs&layout=compact)](https://github.com/clydegold8/github-readme-stats)
+
+---
+
+## 📌 What Recruiters Can Expect
+
+* ✅ **10+ years** of real-world front-end experience
+* ✅ Strong expertise in **React, Vue, and Nuxt ecosystems**
+* ✅ Proven ability to work with **REST APIs and backend teams**
+* ✅ Comfortable writing **unit, integration, and E2E tests**
+* ✅ Experience maintaining and modernizing **legacy codebases**
+* ✅ Clear communicator in remote, async-first environments
+
+---
+
+## 📈 Professional Focus
+
+* Scalable front-end architecture
+* Component-driven development
+* Performance optimization
+* Code quality & test coverage
+* Long-term maintainability
+
+---
+
+## 📫 Availability & Contact
+
+* 💼 Open to **freelance, contract, or full-time** opportunities
+* 🌍 Available for **remote roles worldwide**
+
+> *“Great UI is invisible — great code lasts.”*
+
+---
+
+⭐ Feel free to explore my repositories or reach out if you'd like to discuss an opportunity.
+
